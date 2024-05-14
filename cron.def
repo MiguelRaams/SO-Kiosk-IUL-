@@ -1,0 +1,16 @@
+###############################################################################
+## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2022/2023
+##
+## Aluno: Nº:       Nome:
+## Nome do Módulo: cron.def
+## Descrição/Explicação do Módulo:
+##
+##
+## Explicação de quais os comandos a usar para configurar o seu sistema Linux
+## usando este ficheiro:
+##
+##  crontab cron.def é o comando que permite despoletar o agendamento
+##
+###############################################################################
+
+17 9 * * 4 cd /home/a110722/parte-1; ./refill.sh
